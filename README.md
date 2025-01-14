@@ -1,8 +1,8 @@
-<h1 align="center">Hi <img src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Hi.gif" width="28px"/>, I'm Bjorka</h2>
-<h2 align="center">
-Fullstack Developer
-
-</h2>
+<p align="center">
+  <a href="https://www.facebook.com/mdshahmakhdum.shajon">
+    <img width="65%" alt="Hello, I'm Bjorka-6X. I love coding :)" src="https://raw.githubusercontent.com/SHAJON-404/SHAJON-404/refs/heads/main/assests/SHAJON.png" />
+  </a>
+</p>
 
 <div align="center">
  <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
