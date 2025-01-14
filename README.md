@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://www.facebook.com/mdshahmakhdum.shajon">
-    <img width="65%" alt="Hello, I'm Bjorka-6X. I love coding :)" src="https://raw.githubusercontent.com/Bjorka-6X/Bjorka-6X/refs/heads/main/20250115_030320-removebg-preview.png" />
+  <a href="https://www.facebook.com/AsepYusup">
+    <img width="65%" alt="Hello, I'm Bjorka-6X. I love coding :)" src="https://raw.githubusercontent.com/Bjorka-6X/Bjorka-6X/refs/heads/main/IMG_20250115_040120-removebg-preview.png" />
   </a>
 </p>
 
